@@ -1,0 +1,12 @@
+Requirements:
+
+guid_repo
+
+1. Need to chech the available GUID with the unmerged input
+2. Need to emplty the GUID and add new field as OLD GUID and mention the ID
+3. Need to remove Consolidation_Ind
+
+golden_repo
+
+1. Need to update the doucument with the existed GUID
+2. Update the document by adding a field 'unmerged' and give value as 'S'
